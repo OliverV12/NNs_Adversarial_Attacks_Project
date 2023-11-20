@@ -1,6 +1,6 @@
-##############################################################################
-### GENERATING ADVERSARIAL ATTACKS ON MNIST DATASET VIA AUTOATTACK LIBRARY ###
-##############################################################################
+
+## GENERATING ADVERSARIAL ATTACKS ON MNIST DATASET VIA AUTOATTACK LIBRARY 
+
 
 INFORMATION ON THE CODE STRUCTURE AND FILES/FOLDER ORGANIZATION
 The project's code is organized into four Python modules: "Adv_attack", "Adv_attack_my_func", "Backbones" and "classifier".
