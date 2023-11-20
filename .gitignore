@@ -4,3 +4,20 @@ simplecnn adv standard dataset/*
 NNs Projects/*
 Train-val 10 epochs/*
 Performance_vs_parameter.py
+adv_mlp1_array.npy
+adv_mlp2_array.npy
+adv_resnet18_array.npy
+adv_simplecnn_array.npy
+classifier_mlp1.pth
+classifier_mlp2.pth
+classifier_resnet18.pth
+classifier_simplecnn.pth
+labels_mlp1_array.npy
+labels_mlp2_array.npy
+labels_resnet18_array.npy
+labels_simplecnn_array.npy
+mlp1_training_stage.pdf
+mlp2_training_stage.pdf
+README.txt
+resnet18_training_stage.pdf
+simplecnn_training_stage.pdf
