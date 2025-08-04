@@ -11,7 +11,7 @@ The main program is located in the "Adv_attack" file while "Adv_attack_my_func",
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 HOW TO RUN THE CODE
-In "Adv_attack", as explained in more detail in the slides, the main program consists of four IF statement blocks: 'train', 'eval', 'adv_attacks_generation' and 'eval_other_adv_attacks', executable only one at a time and all via terminal.
+In "Adv_attack" the main program consists of four IF statement blocks: 'train', 'eval', 'adv_attacks_generation' and 'eval_other_adv_attacks', executable only one at a time and all via terminal.
 
 - To execute the 'train' block:
   	Example:
