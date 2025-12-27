@@ -1,3 +1,10 @@
+## Project Overview
+This project explores adversarial attacks on neural networks using the AutoAttack
+library on the MNIST dataset. The goal is to evaluate model robustness against
+state-of-the-art adversarial strategies.
+
+**Key topics:** Adversarial ML, PyTorch, CNNs, Model Robustness  
+**Context:** University project (MSc in AI & Automation Engineering)
 
 ## GENERATING ADVERSARIAL ATTACKS ON MNIST DATASET VIA AUTOATTACK LIBRARY 
 
